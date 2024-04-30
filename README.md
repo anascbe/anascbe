@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello 👋
+
+I’m Anas, a software designer crafting tailored experiences for digital products. Currently, a founding product designer at MetricsMatter.
+
+In the past, I’ve designed products for companies such as Paytm, Chargebee and a handful of startups in the B2B space.
+
+🧰 Find my work: www.mohammedanas.com (Email me for the passcode)
+
+📫 How to reach me: hello@mohammedanas.com
 
 <!--
 **anascbe/anascbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
