@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I’m Anas, a software designer crafting tailored experiences for digital products. Currently, a founding product designer at MetricsMatter.
+I’m Anas, a software designer crafting tailored experiences for digital products. Currently, a founding product designer at a startup.
 
 In the past, I’ve designed products for companies such as Paytm, Chargebee and a handful of startups in the B2B space.
 
